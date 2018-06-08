@@ -1,0 +1,14 @@
+@import '../colors/index.scss';
+
+@mixin border-radius($radius) {
+    -webkit-border-radius: $radius;
+       -moz-border-radius: $radius;
+        -ms-border-radius: $radius;
+            border-radius: $radius;
+}
+
+table {
+    @include border-radius(20px);
+    border: 1px solid $blue;
+    border-collapse: separate;
+}

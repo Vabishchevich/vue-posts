@@ -1,0 +1,22 @@
+@import '../colors/index.scss';
+
+nav, 
+.page-footer {
+    font-style:italic;
+    opacity: .8;
+    background-color: $gray;
+  }
+
+h5 {
+    text-align: center;
+    font-weight: normal; /* Нормальное начертание */
+    font-style:italic; 
+}
+
+input {
+    font-style:italic
+}
+
+th {
+    font-weight: normal; /* Нормальное начертание */
+}

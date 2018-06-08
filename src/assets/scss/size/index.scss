@@ -1,0 +1,12 @@
+@import '../colors/index.scss';
+@import '../font/index.scss';
+
+.main {
+    min-height: calc(100vh - 269px);
+}
+.main-content, .row {
+    height: 100%;
+}
+.page-footer {
+    width: 100%; /* Ширина слоя */
+}

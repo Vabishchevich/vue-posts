@@ -1,0 +1,9 @@
+{
+    "Language" : "En",
+    "navbar" : {
+        "posts" : "Posts",
+        "create" : "Post Create",
+        "users" : "Users",
+        "photos" : "Photos"
+    }
+}
